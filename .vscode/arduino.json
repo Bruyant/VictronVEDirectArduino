@@ -1,0 +1,7 @@
+{
+    "sketch": "examples/ReadVEDirect/ReadVEDirect.ino",
+    "board": "arduino:avr:uno",
+    "output": "./build",
+    "port": "/dev/tty.usbmodemFA131",
+    "baudRate": 19200
+}
